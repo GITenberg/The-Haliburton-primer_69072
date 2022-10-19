@@ -1,0 +1,32 @@
+_repo: The-Haliburton-primer_69072
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Payne, Bruce R.
+    gutenberg_agent_id: '55085'
+    url: http://www.gutenberg.org/2009/agents/55085
+creator:
+  author:
+    agent_name: Haliburton, M. W.
+    gutenberg_agent_id: '55084'
+    url: http://www.gutenberg.org/2009/agents/55084
+description: ''
+gutenberg_issued: '2022-09-30'
+identifiers:
+  gutenberg: '69072'
+language: en
+pgterms:marc904: https://archive.org/details/HaliburtonPrimer/page/n5/mode/2up
+pgterms:marc905: 20210204211020haliburton
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Charlene Taylor, judeeylander and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :D. C. Heath & Company,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Haliburton primer
+url: http://www.gutenberg.org/ebooks/69072
